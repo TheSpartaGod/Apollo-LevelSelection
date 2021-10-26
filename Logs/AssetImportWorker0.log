@@ -164,3 +164,43 @@ Received Import Request.
 Start importing Assets/Images/Background.png using Guid(eff433f453ba3463ba7497fb1066177c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd889a95092af56c72c7f51997bba692a') in 1.024546 seconds 
   Import took 1.028584 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 3082.998011 seconds.
+  path: Assets/Images/Characters - Flat.png
+  artifactKey: Guid(fa2cfa92bec1847a1867b54b44f79c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Characters - Flat.png using Guid(fa2cfa92bec1847a1867b54b44f79c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c0df92c300b9479f0ad615f5b7453c6') in 0.033323 seconds 
+  Import took 0.049749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Images/Tag.png
+  artifactKey: Guid(e8baed5c962e542228a70dae4aaffe60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Tag.png using Guid(e8baed5c962e542228a70dae4aaffe60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31fce74a2300919a720b5b41ee5b094b') in 0.015495 seconds 
+  Import took 0.018623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Images/PurpleStar.png
+  artifactKey: Guid(32324e4ee8c534fb3a34d71a8394fa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/PurpleStar.png using Guid(32324e4ee8c534fb3a34d71a8394fa8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b925c86f4dac3a0b032f8775a79a0b') in 0.014824 seconds 
+  Import took 0.018143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Images/YellowStar.png
+  artifactKey: Guid(6d3e2836f36a54ce4949206a92a3e099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/YellowStar.png using Guid(6d3e2836f36a54ce4949206a92a3e099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ab35f9b319414c446128e6914c5a8a') in 0.013624 seconds 
+  Import took 0.016914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Images/Circle.png
+  artifactKey: Guid(8c0b1056cf3e54108bdc565ebbd34329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Circle.png using Guid(8c0b1056cf3e54108bdc565ebbd34329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '411c99f6ddcb0bbc0b2ec392e79c6486') in 0.014022 seconds 
+  Import took 0.017291 seconds .
+
