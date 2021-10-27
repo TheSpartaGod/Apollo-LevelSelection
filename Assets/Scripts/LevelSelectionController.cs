@@ -54,7 +54,7 @@ public class LevelSelectionController : MonoBehaviour
         GameObject lvl = new GameObject();
         for (int i = 0; i < levels.Length; i++) {
             lvl = levels[i];
-            lvl.GetComponent<LevelItem>().data = generateDummy(i);
+            lvl.GetComponent<LevelItem>().data = generateDummy(i+1);
             //lvl.GetComponent<LevelItem>().data = data.levelData[i];
             // lvl.GetComponent<LevelItem>().data.starCount = items[i].data.starCount;
             /*  lvl.GetComponent<LevelItem>().levelCount = levelContainer[i,0];
